@@ -85,3 +85,8 @@ similar commands can be run. Config files are provided in `exp/omniglot` folder.
 ### CIFAR10
 
 similar commands can be run. Config files are provided in `exp/cifar` folder.
+
+
+## Acknowledgements
+
+Code for evaluating [FID](https://github.com/bioinf-jku/TTUR) and [PRD](https://github.com/msmsajjadi/precision-recall-distributions) are adapted from their public implementations. Please cite their work if you use this repo.
